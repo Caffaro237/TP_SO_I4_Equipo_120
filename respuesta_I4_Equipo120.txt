@@ -2,3 +2,10 @@ A- ¿Qué color de fondo tiene su página en el TESTING ? -------> Tiene el colo
 B- ¿Qué color de fondo tiene su página en el DESARROLLO ? ----> Tiene el color Amarillo
 C- ¿Qué color de fondo tiene su página en el MASTER? ---------> Tiene el color Azul
 D- ¿Qué favicon quedó en el MASTER el de ALFA o el de BETA? --> Quedo el favicon de BETA
+E- ¿Algún integrante tuvo problemas al hacer el push? --------> Beta
+F- ¿Qué problemas surgieron? ---------------------------------> hubo un conflicto con el push anterior
+G- ¿Qué soluciones pueden aplicar y cual seria la consecuencia de cada solución
+adoptada? ----------------------------------------------------> decidimos entre los colaboradores que commit era el que iba
+H- ¿Qué sucede si cada uno utiliza el push -f? ---------------> pisa el commit anterior
+I- ¿Qué debo hacer para que el index.html tengas todos los <p> de los puntos 18,19 y 20
+en DESARROLLO ? ----------------------------------------------> hacer un pull entre cada push para ir actualizando el archivo.
